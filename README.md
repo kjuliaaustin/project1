@@ -1,4 +1,4 @@
-# project1
+# A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)
 
 
 This data analysis project aimed to explore various aspects of life expectancy across different countries and continents, as well as factors that might influence life expectancy, such as GDP, education, healthcare, and mental health disorders. Here's a breakdown of the project steps and key findings:
